@@ -3,3 +3,5 @@
 
 
  using this script you can upload files to your computer from other devices in the local network
+ 
+ <a href="https://github.com/wijewardhane/F-Receiver/releases/tag/v1.0.0">For windows</a>
