@@ -1,6 +1,6 @@
 from flask import Flask,request
 import socket
-from werkzeug.utils import secure_filename
+
 import os
 
 banner = '''
