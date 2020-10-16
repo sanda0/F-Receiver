@@ -6,7 +6,7 @@
  
  
  
-## step1 -  <a href="https://github.com/wijewardhane/F-Receiver/releases/tag/v1.0.0">download F-Receiver.exe file</a>
+## step1 -  <a href="https://github.com/wijewardhane/F-Receiver/releases/download/v1.0.0/F-Receiver.exe">download F-Receiver.exe file</a>
 ## setp2 - run F-Receiver.exe
 
 image-01
