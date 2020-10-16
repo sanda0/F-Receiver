@@ -14,6 +14,7 @@ image-01
 
 ## setp3 - open your other device web browser and type URL(image-01)
 image-2
+-
 ![IMG_20201015_180520](https://user-images.githubusercontent.com/45274219/96125044-44ea5280-0f11-11eb-9f62-eb208fcedb69.jpg)
 ## setp4 - select a file and submit
 thank you!
